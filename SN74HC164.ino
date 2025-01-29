@@ -4,6 +4,7 @@
 /* the idea is let it so simple to be easy catch    */
 /* where can do changes and look to the results     */
 /****************************************************/
+//Panel Philips HDR-3500/31
 #define VFD_in 8// If 0 write LCD, if 1 read of LCD
 #define VFD_clk 9 // if 0 is a command, if 1 is a data0
 #define VFD_stb 10 // Must be pulsed to LCD fetch data of bus
